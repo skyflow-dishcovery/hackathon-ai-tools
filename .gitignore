@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv or local keys
+.env
+
+# Audio temp files
+*.mp3
+*.wav
+*.ogg
+*.webm
